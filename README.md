@@ -5,6 +5,8 @@
 ![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.111.0-green.svg)
 ![Pydantic](https://img.shields.io/badge/Pydantic-v2-orange.svg)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-standard-blue)
+![curl_cffi](https://img.shields.io/badge/curl_cffi-requests-brightgreen)
 ![Status](https://img.shields.io/badge/status-concluído-brightgreen)
 
 ---
